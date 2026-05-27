@@ -1,2 +1,2 @@
-# Bitirme-Tezi
-Aritma Tespiti Yapabilen Kod
+# ECG-ARRHYTHMIA-DETECTION
+The code which can detect arrhythmia
